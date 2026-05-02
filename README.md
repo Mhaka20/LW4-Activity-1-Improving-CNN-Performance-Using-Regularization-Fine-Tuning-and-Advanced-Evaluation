@@ -2,6 +2,7 @@
 
 # COLAB Link: [https://colab.research.google.com/drive/1_kLZvd3iBABYKdWsVpGHTqrE6Xe0dodD](https://colab.research.google.com/drive/1nXLlMZfrG9dVG-XhRRTomSbCAH-d1hC9#scrollTo=s8YfaYFeyTQ4)
 
+# COLAB Link (Good Model): https://colab.research.google.com/drive/1Zo-ZgVzDDGsaa2en8FQlwX7NuzdG79Af#scrollTo=yEFO1MgNqNN7
 
 # CSC 120 Image Classifier - Model Evaluation & Reflection
 
